@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shobitharanipambala/note-app/static/css/main.73b16fbf.css",
-    "main.js": "/shobitharanipambala/note-app/static/js/main.e83cddbe.js",
-    "static/js/787.2e9082b0.chunk.js": "/shobitharanipambala/note-app/static/js/787.2e9082b0.chunk.js",
-    "static/media/logo.svg": "/shobitharanipambala/note-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/shobitharanipambala/note-app/index.html",
-    "main.73b16fbf.css.map": "/shobitharanipambala/note-app/static/css/main.73b16fbf.css.map",
-    "main.e83cddbe.js.map": "/shobitharanipambala/note-app/static/js/main.e83cddbe.js.map",
-    "787.2e9082b0.chunk.js.map": "/shobitharanipambala/note-app/static/js/787.2e9082b0.chunk.js.map"
+    "main.css": "/note-app/static/css/main.73b16fbf.css",
+    "main.js": "/note-app/static/js/main.ec6ed7b4.js",
+    "static/js/787.2e9082b0.chunk.js": "/note-app/static/js/787.2e9082b0.chunk.js",
+    "static/media/logo.svg": "/note-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/note-app/index.html",
+    "main.73b16fbf.css.map": "/note-app/static/css/main.73b16fbf.css.map",
+    "main.ec6ed7b4.js.map": "/note-app/static/js/main.ec6ed7b4.js.map",
+    "787.2e9082b0.chunk.js.map": "/note-app/static/js/787.2e9082b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73b16fbf.css",
-    "static/js/main.e83cddbe.js"
+    "static/js/main.ec6ed7b4.js"
   ]
 }
